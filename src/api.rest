@@ -1,0 +1,1 @@
+GET api.themoviedb.org/3/trending/movie/day?api_key=b76b719cc4f87e6c1b6bcd8f1cc8685e
